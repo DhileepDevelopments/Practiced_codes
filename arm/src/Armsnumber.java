@@ -27,7 +27,7 @@ class arm{
             org=org/10;
             }
             if(i==arm){
-                System.out.println(arm);;
+                System.out.println(arm);
             }
         }
 
