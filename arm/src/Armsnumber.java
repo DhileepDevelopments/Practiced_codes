@@ -33,7 +33,7 @@ class arm{
 
     }
 }
-public class Main {
+public class Armsnumber {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int x=sc.nextInt();
